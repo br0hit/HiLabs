@@ -5,7 +5,15 @@
 GitHub Link: https://github.com/br0hit/HiLabs
 Video Explanation: https://drive.google.com/drive/folders/1adDufhRMvmXdm9CazGmyl69jrtAqKF7Z?usp=sharing
 
-  
+
+## Results
+
+The resultsare present in the dashboard/data.csv section
+1 - Standard
+0 - Non standard 
+
+Total Standard obtained: 28
+Total Non Standard obtained: 22
 
 ## Requirements
 
