@@ -1,0 +1,47 @@
+{
+  "Attr1": {
+    "Submission and Adjudication of Medicaid Claims": [
+      {
+        "section": "3.1",
+        "image": "page_020.png",
+        "bbox": [
+          302,
+          479,
+          2250,
+          731
+        ],
+        "text": "aims. Unless otherwise instructed\nRequirements, Provider shall submit Claims to Plan, using appropriate and current Coded Service\nIdentifier(s), within three hundred sixty-five (365) days from the date the Health Services are rendered or\n\n \n\nPlan may refuse payment. If Plan is the secondary payor, or in situations of retroactive eligibility changes,\nthe three hundred sixty-five (365) day period will not begin until Provider receives notification of primary\npayor's responsibility."
+      }
+    ]
+  },
+  "Attr2": {
+    "Submission and Adjudication of Medicare Advantage Claims": [
+      {
+        "section": "6.1",
+        "image": "page_034.png",
+        "bbox": [
+          302,
+          867,
+          2248,
+          1076
+        ],
+        "text": "ubmission and Adjudication of Medicare Advantage Claims. Unless required by Regulatory Requirements\nProvider shall submit Claims to Plan, using appropriate and current Coded Service Identifier(s), within three\nhundred sixty five (365) days from the date the Health Services are rendered or Plan will refuse payment. If\n\nPlan is the secondary payor or in situation of retroactive eligibility changes, the three-hundred sixty five (365\n\npayor's responsibility.\n\n \n\nday period will not begin until Provider receives notification of primar"
+      }
+    ]
+  },
+  "Attr3": {
+    "Networks and Provider Panels": [
+      {
+        "section": "2.11",
+        "image": "page_005.png",
+        "bbox": [
+          302,
+          1902,
+          2249,
+          2943
+        ],
+        "text": "be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating\nProvider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined b\nPlan in its sole discretion, the date Provider has met Plan's applicable credentialing requirements, standards\nof participation and accreditation requirements. Provider acknowledges that Plan may develop, discontinue,\nor modify new or existing Networks, products and/or programs. In addition to those Networks designated on\nthe Provider Networks Attachment, [MM may also identify Provider as a Participating Provider in\nadditional Networks, products and/or programs designated in writing from time to time by The\nterms and conditions of Provider's participation as a Participating Provider in such additional Networks,\nproducts and/or programs shall be on the terms and conditions as set forth in this Agreement unless\notherwise agreed to in writing by Provider and aay\n\n \n\nIn addition to and separate from Networks that support some or all of Plan's products and/or programs (e.g.,\nHMO, PPO and Indemnity products), Provider further acknowledges that certain Health Services, including\nby way of example only, laboratory or behavioral health services, may be provided exclusively by designated\nParticipating Providers (a \"Health Services Designated Network\"), as determined by Plan. If Provider\nprovides such designated Health Services, they shall be specifically identified in this agreement. Upo\n\nidentification and exclusion from this Agreement, Provider agrees to refer Members to such designated\nParticipating Providers in a Health Services Designated Network for the provision of certain Health Services,\neven if Provider performs such services. Notwithstanding any other provision in this Agreement, if Provide\n\nprovides a non-emergency Health Service to a Member for which Provider is not a designated Participating\nProvider in a Health Services Designated Network, then Provider agrees that he/she/it shall not be\nreimbursed for such services by J Plan or the Member, unless Provider was authorized to provide\nsuch Health Service by Plan."
+      }
+    ]
+  }
+}

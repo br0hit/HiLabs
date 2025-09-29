@@ -1,0 +1,11 @@
+Market,Contract,Attr1,Attr2,Attr3,Attr4,Attr5
+TN,TN1,1,0,1,0,1
+TN,TN2,0,1,0,1,0
+TN,TN3,1,1,0,0,1
+TN,TN4,0,0,1,1,0
+TN,TN5,1,0,0,1,1
+WA,WA1,0,1,1,0,0
+WA,WA2,1,0,1,1,0
+WA,WA3,0,1,0,0,1
+WA,WA4,1,1,0,1,0
+WA,WA5,0,0,1,0,1

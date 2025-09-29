@@ -1,0 +1,23 @@
+services:
+  pipeline:
+    # 1. Build the image using the Dockerfile in the current directory
+    build: .
+    
+    # 2. Define the command to run (your pipeline script)
+    command: python -u pipeline_extract_clauses.py --data_folder Data --output_folder Output
+    
+    # 3. Set resource limits (solving the 'Killed' error)
+    deploy:
+      resources:
+        limits:
+          memory: 8g  # Set a hard memory limit of 8GB
+          
+    # 4. Define the volumes (bind mounts)
+    volumes:
+      # Mount the local Data/ folder (input) to /app/Data in the container
+      - ./Data:/app/Data
+      # Mount the local Output/ folder (output) to /app/Output in the container
+      - ./Output:/app/Output
+    
+    # 5. Set the working directory (already in Dockerfile, but good for clarity)
+    working_dir: /app

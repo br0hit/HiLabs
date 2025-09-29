@@ -1,0 +1,37 @@
+{
+  "Attr1": {
+    "Submission and Adjudication of Medicaid Claims": [
+      {
+        "section": "3.1",
+        "image": "page_020.png",
+        "bbox": [
+          302,
+          393,
+          2250,
+          602
+        ],
+        "text": "aims. Unless otherwise instructed\nRequirements, Provider shall submit Claims to Plan, using appropriate and current Coded Service\nIdentifier(s), within three hundred sixty-five (365) days from the date the Health Services are rendered or\n\n \n\nPlan may refuse payment. If Plan is the secondary payor, the three hundred sixty-five (365) day period will\nnot begin until Provider receives notification of primary payor's responsibility."
+      }
+    ]
+  },
+  "Attr2": {
+    "Submission and Adjudication of Medicare Advantage Claims": {
+      "error": "No section found for phrase 'Submission and Adjudication of Medicare Advantage Claims'"
+    }
+  },
+  "Attr3": {
+    "Networks and Provider Panels": [
+      {
+        "section": "2.11",
+        "image": "page_005.png",
+        "bbox": [
+          302,
+          1773,
+          2249,
+          2728
+        ],
+        "text": "Networks and Provider P\n\nthe Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating\nProvider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined b\n\nPlan in its sole discretion, the date Provider has met Plan's applicable credentialing requirements, standards\nof participation and accreditation requirements. Provider acknowledges that Plan may develop, discontinue,\nor modify new or existing Networks, products and/or programs. In addition to those Networks designated on\nthe Provider Networks Attachment, [J may also identify Provider as a Participating Provider in\nadditional Networks, products and/or programs designated in writing from time to time by The\nterms and conditions of Provider's participation as a Participating Provider in such additional Networks,\nproducts and/or programs shall be on the terms and conditions as set forth in this Agreement unless\notherwise agreed to in writing by Provider and aay\n\nIn addition to and separate from Networks that support some or all of Plan's products and/or programs (e.g.,\nHMO, PPO and Indemnity products), Provider further acknowledges that certain Health Services, including\nby way of example only, laboratory or behavioral health services, may be provided exclusively by designated\nParticipating Providers (a \"Health Services Designated Network\"), as determined by Plan. Provider agree\n\nto refer Members to such designated Participating Providers in a Health Services Designated Network fo\nthe provision of certain Health Services, even if Provider performs such services. Notwithstanding any othe\nprovision in this Agreement, if Provider provides a Health Service to a Member for which Provider is not a\ndesignated Participating Provider in a Health Services Designated Network, then Provider agrees that\nhe/she/it shall not be reimbursed for such services by i” Plan or the Member, unless Provider wa\n\nauthorized to provide such Health Service by Plan."
+      }
+    ]
+  }
+}

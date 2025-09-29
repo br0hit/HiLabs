@@ -1,0 +1,7 @@
+{
+  "attributes_to_extract": {
+    "Attr1": ["Submission and Adjudication of Medicaid Claims"],
+    "Attr2": ["Submission and Adjudication of Medicare Advantage Claims"],
+    "Attr3": ["Networks and Provider Panels"]
+  }
+}

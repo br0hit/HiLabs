@@ -1,0 +1,48 @@
+{
+  "Attr1": {
+    "Submission and Adjudication of Medicaid Claims": [
+      {
+        "section": "3.1",
+        "image": "page_037.png",
+        "bbox": [
+          302,
+          2637,
+          2250,
+          2872
+        ],
+        "text": "ubmission_ and Adjudication of Medicai\nRequirements, Provider shall submit Claims to J using appropriate and current Coded Service\n\n \n\nIdentifier(s), within one hundred twenty (120) days from the date the Health Services are rendered o\nmay refuse payment. If MJ is the secondary payor, the one hundred twenty (120) day\nperiod will not begin until Provider receives notification of pri"
+      }
+    ]
+  },
+  "Attr2": {
+    "Submission and Adjudication of Medicare Advantage Claims": {
+      "error": "No section found for phrase 'Submission and Adjudication of Medicare Advantage Claims'"
+    }
+  },
+  "Attr3": {
+    "Networks and Provider Panels": [
+      {
+        "section": "2.11",
+        "image": "page_004.png",
+        "bbox": [
+          302,
+          2075,
+          2249,
+          2943
+        ],
+        "text": "Networks and Provider P\n\nthe Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating\n\nProvider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined b\n\nin its sole discretion, the date Provider has met applicable credentialing\n\nrequirements and accreditation requirements. Provider acknowledges that\n\ndiscontinue, or modify new or existing Networks, products and/or programs. In addition to those Networks\n\ndesignated on the Provider Networks Attachment, J ay also identify Provider as a Participating\n\nProvider in additional Networks, products and/or programs designated in writing from time to time b\n\nnino The terms and conditions of Provider's participation as a Participating Provider in suc\nitlonal Networks, products and/or programs shall be on the terms and conditions as set forth in thi\n\nAgreement unless otherwise agreed to in writing by Provider and aaa\n\nIn addition to and separate from Networks that support some or all of products and/o\n\nprograms (e.g., HMO and PPO), Provider further acknowledges that certain Health Services, including b\n\nway of example only, laboratory services, may be provided exclusively by designated Participating Providers\n(a \"Health Services Designated Network\"), as determined by Provider agrees to refer Members\nto such designated Participating Providers in a Health Services Designated Network for the provision of\ncertain Health Services, even if Provider performs such services. Notwithstanding any other provision in this\nAgreement, if Provider provides a Health Service to a Member for which Provider is not a designated\nParticipating Provider in a Health Services Designated Network, then Provider agrees that he/she/it shall not"
+      },
+      {
+        "section": "2.11",
+        "image": "page_005.png",
+        "bbox": [
+          451,
+          307,
+          2247,
+          386
+        ],
+        "text": "pe reimbursed for such services by JE or the Member, unless Provider was authorized to provide\nsuch Health Service by"
+      }
+    ]
+  }
+}

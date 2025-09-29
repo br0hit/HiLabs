@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CSV Table Viewer</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main class="container">
+    <h1>Data.csv — Market / Contract attributes</h1>
+
+    <div class="table-wrap">
+      <table class="styled-table" role="table" aria-label="CSV data table">
+        <thead>
+          <tr>
+            {% for h in headers %}
+              <th>{{ h }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in rows %}
+            <tr>
+              {% for h in headers %}
+                <td>{{ row[h] }}</td>
+              {% endfor %}
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <footer>
+      <small>Loaded {{ rows|length }} rows from <code>data.csv</code></small>
+    </footer>
+  </main>
+</body>
+</html>
