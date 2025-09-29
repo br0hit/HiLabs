@@ -1,0 +1,31 @@
+
+==== Medicaid ====
+$561.00
+$561.00
+
+==== Medicaid ====
+$314.44
+$12.57
+
+==== Medicaid ====
+$279.73
+$11.87
+
+==== Medicaid ====
+Rate/Methodolog Percentage of Program Utilization multiplied by the amount in
+|
+
+==== Medicaid ====
+|
+
+==== Medicaid ====
+Rate/Methodol Percentage of Program Utilization multiplied by the amount in Section 1.a.
+;
+
+==== Medicare Advantage ====
+Medicare Outpatient Prospective Payment System and Medicare fee schedules multiplied by one hundred percent (100%)
+
+==== Medicare Advantage ====
+Medicare Physician Fee Schedule multiplied by one hundred percent (100%)
+Medicare Drug Fee Schedule multiplied by one hundred percent (100%
+Medicare Clinical Laboratory Fee Schedule multiplied by forty five percent (45%

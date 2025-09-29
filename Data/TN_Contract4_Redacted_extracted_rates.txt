@@ -1,0 +1,15 @@
+
+==== Medicare Advantage ====
+ma
+Rate from CMS Medicare Administrative Contractor letter multiplied by one hundred percent (100%
+Medicare Inpatient Psychiatric Facility Prospective Payment System multiplied by one hundred percent (100%)
+Medicare Inpatient Rehabilitation Facility Prospective Payment System multiplied by one hundred percent (100%
+Rate from CMS Medicare Administrative Contractor letter multiplied by one hundred percent (100%
+Rate from CMS Medicare Administrative Contractor letter multiplied by one hundred percent (100%
+
+==== Medicaid ====
+; |
+85% of the [\"CMS\"] Outpatient Prospective Payment System (\"OPPS\") Calendar Year 2018
+
+==== Medicaid ====
+| $1\,100.00

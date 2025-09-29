@@ -1,0 +1,146 @@
+{
+  "Attr1": {
+    "Submission and Adjudication of Medicaid Claims": [
+      {
+        "section": "3.1",
+        "image": "page_020.png",
+        "bbox": [
+          302,
+          479,
+          2250,
+          731
+        ],
+        "text": "aims. Unless otherwise instructed\nRequirements, Provider shall submit Claims to Plan, using appropriate and current Coded Service\nIdentifier(s), within three hundred sixty-five (365) days from the date the Health Services are rendered or\n\n \n\nPlan may refuse payment. If Plan is the secondary payor, or in situations of retroactive eligibility changes,\nthe three hundred sixty-five (365) day period will not begin until Provider receives notification of primary\npayor's responsibility."
+      },
+      {
+        "section": "3.1.1",
+        "image": "page_020.png",
+        "bbox": [
+          452,
+          781,
+          2248,
+          947
+        ],
+        "text": "Provider agrees to submit Claims in a format consistent with industry standards and acceptable to\nPlan either (a) electronically through electronic data interchange (\"EDI\"), or (b) if electronic\n\nsubmission is not available, utilizing paper forms as defined by the National Uniform Clai\n\n \n\nCommittee"
+      },
+      {
+        "section": "3.1.2",
+        "image": "page_020.png",
+        "bbox": [
+          452,
+          997,
+          2249,
+          1248
+        ],
+        "text": "Provider agrees to provide to unless otherwise instructed, at no cost to\nthe Medicaid Member, all information necessary for Plan to determine its payment liability. Such\ninformation includes, without limitation, accurate and Clean Claims for Medicaid Covered Services.\n\nor Plan asks for additional information so that Plan may process the Claim, Provide\nmust provide that information within sixty (60) days, or before the expiration of the three hundred\nperiod referenced in section 3.1 above, whichever is longer."
+      },
+      {
+        "section": "3.1.3",
+        "image": "page_020.png",
+        "bbox": [
+          452,
+          1294,
+          2249,
+          1550
+        ],
+        "text": "determines Plan has any payment liability, all Clean Claims will be adjudicated |\naccordance with the terms and conditions of a Medicaid Member's Health Benefit Plan, the PCS;\nthe provider manual(s), and the Regulatory Requirements applicable to Plan's Medicaid\n\nProgram(s). However, ome and/or Plan shall not revise, bundle or adjust any HCPCS and/o\nCPT codes which have been appropriately coded and submitted by Provider using industr\nstandard practices."
+      },
+      {
+        "section": "3.1.4",
+        "image": "page_020.png",
+        "bbox": [
+          452,
+          1601,
+          2249,
+          1895
+        ],
+        "text": "Section 1902(a)(37)(A) of the Social Security Act, 42 C.F.R. § 447.46 and specified for healt\ncarriers in WAC 284-170-431. To be compliant with both payment standards, a shall pa\n\nninety-five percent (95%) of the monthly volume of Clean Claims within thirty (30) calendar days off\n\nreceipt and shall pay or deny ninety-five percent (95%) of the monthly volume of all Claims within\nsixty (60) days of receipt. Notwithstanding the foregoing,\n\ncrc and Provider may agree to a\ndifferent payment requirement in writing on a claim by claim basis."
+      },
+      {
+        "section": "3.1.5",
+        "image": "page_020.png",
+        "bbox": [
+          452,
+          1946,
+          2249,
+          2111
+        ],
+        "text": "Provider interest at the rate of one percent\n284-1/0-431(2)(d) which section may be amended or recodified from time to time, on the unpaid o\n\nundenied portion of Clean Claims not adjudicated within the time periods discussed above, a:\nrequired under applicable prompt pay requirements."
+      },
+      {
+        "section": "3.1.6",
+        "image": "page_020.png",
+        "bbox": [
+          452,
+          2161,
+          2250,
+          2327
+        ],
+        "text": "Provider agrees to accept payments or appropriate\nAgreement as payment in full for all Medicaid Covered Services provided to Medicaid Members.\n\nProvider shall be responsible for collecting co-payments from Medicaid Members to the extent\nrequired by Regulatory Requirements."
+      }
+    ]
+  },
+  "Attr2": {
+    "Submission and Adjudication of Medicare Advantage Claims": [
+      {
+        "section": "6.1",
+        "image": "page_034.png",
+        "bbox": [
+          302,
+          867,
+          2248,
+          1076
+        ],
+        "text": "ubmission and Adjudication of Medicare Advantage Claims. Unless required by Regulatory Requirements\nProvider shall submit Claims to Plan, using appropriate and current Coded Service Identifier(s), within three\nhundred sixty five (365) days from the date the Health Services are rendered or Plan will refuse payment. If\n\nPlan is the secondary payor or in situation of retroactive eligibility changes, the three-hundred sixty five (365\n\npayor's responsibility.\n\n \n\nday period will not begin until Provider receives notification of primar"
+      },
+      {
+        "section": "6.1.1",
+        "image": "page_034.png",
+        "bbox": [
+          452,
+          1122,
+          2249,
+          1378
+        ],
+        "text": "Provider agrees to provide to unless otherwise instructed, at no cost to\nthe MA Member, all information necessary for Plan to determine its payment\ninformation includes, without limitation, accurate and Clean Claims for MA Covered Services.\n\nOnce determines Plan has any payment liability, all Clean Claims will be paid in\naccordance with the terms and conditions of a MA Member's Health Benefit Plan, the PCS, and the\n\nprovider manual(s)."
+      },
+      {
+        "section": "6.1.2",
+        "image": "page_034.png",
+        "bbox": [
+          452,
+          1428,
+          2248,
+          1593
+        ],
+        "text": "Provider agrees to submit Claims in a format consistent with Industry standards and acceptable to\n\nPlan either (a) electronically through electronic data interchange (\"EDI\"), or (b) if electronic\n\nsubmission is not available, utilizing paper forms as defined by the National Uniform Clai\n\n \n\nCommittee"
+      },
+      {
+        "section": "6.1.3",
+        "image": "page_034.png",
+        "bbox": [
+          452,
+          1644,
+          2249,
+          1766
+        ],
+        "text": ""
+      }
+    ]
+  },
+  "Attr3": {
+    "Networks and Provider Panels": [
+      {
+        "section": "2.11",
+        "image": "page_005.png",
+        "bbox": [
+          302,
+          1902,
+          2249,
+          2943
+        ],
+        "text": "be eligible to participate only in those Networks designated on\nthe Provider Networks Attachment of this Agreement. Provider shall not be recognized as a Participating\nProvider in such Networks until the later of: 1) the Effective Date of this Agreement or; 2) as determined b\nPlan in its sole discretion, the date Provider has met Plan's applicable credentialing requirements, standards\nof participation and accreditation requirements. Provider acknowledges that Plan may develop, discontinue,\nor modify new or existing Networks, products and/or programs. In addition to those Networks designated on\nthe Provider Networks Attachment, [MM may also identify Provider as a Participating Provider in\nadditional Networks, products and/or programs designated in writing from time to time by The\nterms and conditions of Provider's participation as a Participating Provider in such additional Networks,\nproducts and/or programs shall be on the terms and conditions as set forth in this Agreement unless\notherwise agreed to in writing by Provider and aay\n\n \n\nIn addition to and separate from Networks that support some or all of Plan's products and/or programs (e.g.,\nHMO, PPO and Indemnity products), Provider further acknowledges that certain Health Services, including\nby way of example only, laboratory or behavioral health services, may be provided exclusively by designated\nParticipating Providers (a \"Health Services Designated Network\"), as determined by Plan. If Provider\nprovides such designated Health Services, they shall be specifically identified in this agreement. Upo\n\nidentification and exclusion from this Agreement, Provider agrees to refer Members to such designated\nParticipating Providers in a Health Services Designated Network for the provision of certain Health Services,\neven if Provider performs such services. Notwithstanding any other provision in this Agreement, if Provide\n\nprovides a non-emergency Health Service to a Member for which Provider is not a designated Participating\nProvider in a Health Services Designated Network, then Provider agrees that he/she/it shall not be\nreimbursed for such services by J Plan or the Member, unless Provider was authorized to provide\nsuch Health Service by Plan."
+      }
+    ]
+  }
+}

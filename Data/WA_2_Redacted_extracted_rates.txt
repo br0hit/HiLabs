@@ -1,0 +1,10 @@
+
+==== Medicaid ====
+$250.00
+$250.00 100% of the Medicaid Fee Schedule
+;
+
+==== Medicare Advantage ====
+Medicare Physician Fee Schedule multiplied by one hundred percent (100%
+Medicare Drug Fee Schedule multiplied by one hundred percent (100%
+Medicare Clinical Laboratory Fee Schedule multiplied by forty five percent (45%
